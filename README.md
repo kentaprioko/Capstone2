@@ -75,13 +75,4 @@ Selain itu, kami ingin mengadakan program promosi khusus pada tipe trip tertentu
 #### *Membagi Jarak Trip Menjadi 5 Kategori*
 
 ## **Kesimpulan**
-
-1. Metode pembayaran kartu kredit memiliki jumlah yang lebih banyak dibandingkan metode pembayaran cash
-2. Jumlah trip dalam 1 hari paling banyak berada di interval jam 15.00 sampai 18.00
-3. Jarak trip pada metode pembayaran kartu kredit paling banyak berada di interval 1.228 sampai 2.446 mil (short trip)
-
 ## **Rekomendasi**
-
-1. Memberikan promo khusus apabila menggunakan metode pembayaran kartu kredit 'Misa'
-2. Melakukan promo dilakukan di interval jam tertentu. Disarankan dilakukan pada rentang waktu dimana jumlah trip sedang tinggi.
-3. Melakukan promo khusus pada tipe trip dengan jumlah terbanyak, yaitu Short Trip. Karena di tipe trip tersebut memiliki potensi untuk menggaet pengguna kartu kredit 'Misa'.
