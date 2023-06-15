@@ -73,3 +73,6 @@ Selain itu, kami ingin mengadakan program promosi khusus pada tipe trip tertentu
 #### *Melihat Distribusi Metode Pembayaran*
 #### *Melihat Jumlah Trip Berdasarkan Time Range*
 #### *Membagi Jarak Trip Menjadi 5 Kategori*
+
+## **Kesimpulan**
+## **Rekomendasi**
