@@ -1,8 +1,17 @@
+# *New York TLC Trip Record Analysis*
+*Repository ini berisi hasil analisa dari dataset New York TLC Trip Record. Analisis ini bertujuan untuk meningkatkan jumlah penggunaan kartu kredit 'Misa' sebagai metode pembayaran pada taxi di kota New York.*
+
 ## **Background**
 *The New York City Taxi and Limousine Commission (TLC) adalah badan yang bertanggung jawab untuk mengatur taxi, kendaraan sewaan, mobil komuter, dan kendaraan paratransit di kota New York.*
 
 ## **Dataset Explanation**
 *Dataset yang digunakan adalah data yang dikumpulkan oleh TLC untuk setiap trip yang diselesaikan oleh para pengemudi yang berlisensi. Data dicatat oleh Technology Service Providers (TSP) yang juga menyediakan argo elektrik pada setiap taxi, kendaraan sewaan, mobil komuter, dan kendaraan paratransit. Satu baris pada dataset mewakili 1 trip.*
+
+## **Problem**
+Sebagai COO di Perusahaan Kartu Kredit 'Misa', tim kami ingin meningkatkan jumlah penggunaan Kartu Kredit 'Misa'. Berdasarkan dari dataset **NYC TLC Trip Record Dataset** kami ingin mengetahui apakah metode pembayaran kartu kredit jumlahnya lebih banyak dari metode pembayaran lainnya. Kami juga ingin mengetahui pada rentan waktu kapan traffic penggunaan taxi sedang paling tinggi. 
+
+Selain itu, kami ingin mengadakan program promosi khusus pada tipe trip tertentu. Agar promosi kami tepat sasaran, kami perlu mengetahui tipe trip apa yang jumlahnya paling banyak. Sehingga kami bisa mengaplikasikan program promosi kami pada tipe trip tersebut.
+
 
 ## **Variable Explanation**
 - VendorID A code indicating the LPEP provider that provided the record.
@@ -55,24 +64,3 @@
 - Trip_type A code indicating whether the trip was a street hail or a dispatch that is automatically assigned based on the metered rate in use but can be altered by the driver.
     - 1 = Street-hail
     - 2 = Dispatch
-
-## **Problem**
-Sebagai COO di Perusahaan Kartu Kredit 'Misa', tim kami ingin meningkatkan jumlah penggunaan Kartu Kredit 'Misa'. Berdasarkan dari dataset **NYC TLC Trip Record Dataset** kami ingin mengetahui apakah metode pembayaran kartu kredit jumlahnya lebih banyak dari metode pembayaran lainnya. Kami juga ingin mengetahui pada rentan waktu kapan traffic penggunaan taxi sedang paling tinggi. 
-
-Selain itu, kami ingin mengadakan program promosi khusus pada tipe trip tertentu. Agar promosi kami tepat sasaran, kami perlu mengetahui tipe trip apa yang jumlahnya paling banyak. Sehingga kami bisa mengaplikasikan program promosi kami pada tipe trip tersebut.
-
-## **Data Cleaning**
-
-### **Drop Duplicate Row**
-### **Handling Null Value**
-### **Check Anomaly**
-### **Clear Outlier**
-
-## **Data Analysis**
-
-#### *Melihat Distribusi Metode Pembayaran*
-#### *Melihat Jumlah Trip Berdasarkan Time Range*
-#### *Membagi Jarak Trip Menjadi 5 Kategori*
-
-## **Kesimpulan**
-## **Rekomendasi**
