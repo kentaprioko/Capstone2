@@ -1,17 +1,16 @@
 # *New York TLC Trip Record Analysis*
-*Repository ini berisi hasil analisa dari dataset New York TLC Trip Record. Analisis ini bertujuan untuk meningkatkan jumlah penggunaan kartu kredit 'Misa' sebagai metode pembayaran pada taxi di kota New York.*
+*This repository contains analysis results from the New York TLC Trip Record dataset. The purpose of this analysis is to increase the usage number of fictional credit card brand named 'Misa' as a payment method for taxi in New York City.*
 
 ## **Background**
-*The New York City Taxi and Limousine Commission (TLC) adalah badan yang bertanggung jawab untuk mengatur taxi, kendaraan sewaan, mobil komuter, dan kendaraan paratransit di kota New York.*
+*The New York City Taxi and Limousine Commission (TLC) is the agency responsible for licensing and regulating New York City's Medallion (Yellow) taxi cabs, for-hire vehicles (community-based liveries, black cars and luxury limousines), commuter vans, and paratransit vehicles.*
 
 ## **Dataset Explanation**
-*Dataset yang digunakan adalah data yang dikumpulkan oleh TLC untuk setiap trip yang diselesaikan oleh para pengemudi yang berlisensi. Data dicatat oleh Technology Service Providers (TSP) yang juga menyediakan argo elektrik pada setiap taxi, kendaraan sewaan, mobil komuter, dan kendaraan paratransit. Satu baris pada dataset mewakili 1 trip.*
+*The TLC collects trip record information for each taxi and for-hire vehicle trip completed by our licensed drivers and vehicles. This data is received from Technology Service Providers (TSP) that provide electronic metering in each cab, and FHV trip data from the app, community livery, black car, or luxury limousine company, or base, who dispatched the trip. In each trip record dataset, one row represents a single trip made by a TLC-licensed vehicle.*
 
 ## **Problem**
-Sebagai COO di Perusahaan Kartu Kredit 'Misa', tim kami ingin meningkatkan jumlah penggunaan Kartu Kredit 'Misa'. Berdasarkan dari dataset **NYC TLC Trip Record Dataset** kami ingin mengetahui apakah metode pembayaran kartu kredit jumlahnya lebih banyak dari metode pembayaran lainnya. Kami juga ingin mengetahui pada rentan waktu kapan traffic penggunaan taxi sedang paling tinggi. 
+*As a COO 'Misa' Credit Card Company, we want to increase the usage number of our credit card. Based on **NYC TLC Trip Record Dataset** we want to know if credit card is used more than other payment methods. We also want to know times of day when taxi traffic is at its highest. 
 
-Selain itu, kami ingin mengadakan program promosi khusus pada tipe trip tertentu. Agar promosi kami tepat sasaran, kami perlu mengetahui tipe trip apa yang jumlahnya paling banyak. Sehingga kami bisa mengaplikasikan program promosi kami pada tipe trip tersebut.
-
+Apart from that, we want to make special promotional programs for certain types of trips. We need to know what types of trip is the highest to make on-target promotion programs. So we can apply our promotional programs to this type of trip.*
 
 ## **Variable Explanation**
 - VendorID A code indicating the LPEP provider that provided the record.
