@@ -1,4 +1,4 @@
-# *New York TLC Trip Record Analysis*
+# *New York TLC Trip Data Analysis*
 *This repository contains analysis results from the New York TLC Trip Record dataset. The purpose of this analysis is to increase the usage number of fictional credit card brand named 'Misa' as a payment method for taxi in New York City.*
 
 ## **Background**
