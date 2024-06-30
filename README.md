@@ -8,7 +8,7 @@
 *The TLC collects trip record information for each taxi and for-hire vehicle trip completed by our licensed drivers and vehicles. This data is received from Technology Service Providers (TSP) that provide electronic metering in each cab, and FHV trip data from the app, community livery, black car, or luxury limousine company, or base, who dispatched the trip. In each trip record dataset, one row represents a single trip made by a TLC-licensed vehicle.*
 
 ## **Problem**
-As a COO 'Misa' Credit Card Company, we want to increase the usage number of our credit card. Based on **NYC TLC Trip Record Dataset** we want to know if credit card is used more than other payment methods. We also want to know times of day when taxi traffic is at its highest.
+As a 'Misa' Credit Card Company COO, we want to increase the usage number of our credit card. Based on **NYC TLC Trip Record Dataset** we want to know if credit card is used more than other payment methods. We also want to know times of day when taxi traffic is at its highest.
 
 Apart from that, we want to make special promotional programs for certain types of trips. We need to know what types of trip is the highest to make on-target promotion programs. So we can apply our promotional programs to this type of trip.
 
